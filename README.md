@@ -9,7 +9,7 @@ Here you can find Generic Python codes in the field of **Data Science**. You can
 | [**Silhouette-Clustering**](https://github.com/EtzionR/Clustering-by-Silhouette) | V |  |  |  |  |
 | [**Cumulative-Heatmap**](https://github.com/EtzionR/Cumulative-Heatmap-Calculation) |  | :gear: | :earth_africa: | V |  |
 | [**Recursive-HeatMap**](https://github.com/EtzionR/Recursive-HeatMap-Calculation) |  | :gear: | :earth_africa: | V |  |
-| [**Kmeans-Simulator**](https://github.com/EtzionR/Kmeans-Simulator) | :gear: | V |  | V |  |
+| [**Kmeans-Simulator**](https://github.com/EtzionR/Kmeans-Simulator) | V | :gear: |  | V |  |
 | [**My-Convex-Hull**](https://github.com/EtzionR/My-Convex-Hull) |  | :gear: | :earth_africa: | V |  |
 | [**Wikipedia-BFS-crawler**](https://github.com/EtzionR/create-Wikipedia-pages-network-using-BFS-crawler) |  | :gear: |  |  | V |
 | [**Sector-Geometry**](https://github.com/EtzionR/create-sector-shape-KML-file) |  |  | :earth_africa: |  |  |
