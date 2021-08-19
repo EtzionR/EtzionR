@@ -27,4 +27,10 @@ You can watch the repositories and the topics that relevant to them:
 | [**Histogram Calculation**](https://github.com/EtzionR/Histogram-Dictionary) |  |  |  | V |  |
 
 
-Each project includes the code written as part of it and a readme file that details exactly how it works. In addition, there is also a breakdown of required directories, examples of code usage, sample files as well
+Each repository includes:
+- The python code that developed as part of the project
+- Implementation python file which demonstrates the use of the code
+- Readme file that details exactly how it works (including visualization, explanations & math equations)
+- Examples of using the code
+- Descreption of required python libraries
+- [MIT](https://en.wikipedia.org/wiki/MIT_License) using License
