@@ -4,7 +4,7 @@
 Here you can find Generic Python codes in the field of **Data Science**. You can watch the repositories by their topics:
 
 | Repository | Machine & Deep Learning | Algorithms | Geometry & GIS | Visualization | Projects |
-| :--------- | :---------------------: | :--------: | :------------: | :-----------: | :------------------------------: |
+| :--------- | :---------------------: | :--------: | :------------: | :-----------: | :------: |
 | [**Mountaintops-DL**](https://github.com/EtzionR/Finding-Mountaintops-using-DL) | :crystal_ball: |  | :earth_africa: |  | :rocket: |
 | [**Silhouette-Clustering**](https://github.com/EtzionR/Clustering-by-Silhouette) | :crystal_ball: |  |  |  |  |
 | [**Cumulative-Heatmap**](https://github.com/EtzionR/Cumulative-Heatmap-Calculation) |  | :gear: | :earth_africa: | :bar_chart: |  |
