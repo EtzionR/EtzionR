@@ -1,4 +1,4 @@
-# Hi, I'm [Etzion!](https://github.com/EtzionR)
+# Hi, I'm Etzion!
 ## Welcome to my Github-Portfolio
 
 Here you can find Generic Python codes in the field of **Data Science**. The repositories touch the following topics:
@@ -33,4 +33,4 @@ Each repository includes:
 - Readme file that details exactly how it works (including visualization, explanations & math equations)
 - Examples of using the code
 - Descreption of required python libraries
-- [MIT](https://en.wikipedia.org/wiki/MIT_License) using License
+- [MIT](https://en.wikipedia.org/wiki/MIT_License) using license
