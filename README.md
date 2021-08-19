@@ -1,14 +1,7 @@
 # Hi, I'm Etzion!
 ## Welcome to my Github-Portfolio
 
-Here you can find Generic Python codes in the field of **Data Science**. The repositories touch the following topics:
-- **Machine & Deep Learning**
-- **Algorithms**
-- **Geometry & GIS**
-- **Visualization**
-- **Projects in specific areas**
-
-You can watch the repositories and the topics that relevant to them:
+Here you can find Generic Python codes in the field of **Data Science**. You can watch the repositories by their topics:
 
 | Repository | Machine & Deep Learning | Algorithms | Geometry & GIS | Visualization | Projects |
 | :--------- | :---------------------: | :--------: | :------------: | :-----------: | :------: |
@@ -25,7 +18,6 @@ You can watch the repositories and the topics that relevant to them:
 | [**3D GIFs**](https://github.com/EtzionR/create-3d-graph-gif) |  |  |  | V |  |
 | [**Multiple-Densities**](https://github.com/EtzionR/create-multi-smooth-density-plot) |  |  |  | V |  |
 | [**Histogram Calculation**](https://github.com/EtzionR/Histogram-Dictionary) |  |  |  | V |  |
-
 
 Each repository includes:
 - The python code that developed as part of the project
