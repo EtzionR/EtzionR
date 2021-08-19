@@ -7,17 +7,17 @@ Here you can find Generic Python codes in the field of **Data Science**. You can
 | :--------- | :---------------------: | :--------: | :------------: | :-----------: | :------: |
 | [**Mountaintops-DL**](https://github.com/EtzionR/Finding-Mountaintops-using-DL) | :brain: |  | :earth_africa: |  | V |
 | [**Silhouette-Clustering**](https://github.com/EtzionR/Clustering-by-Silhouette) | :brain: |  |  |  |  |
-| [**Cumulative-Heatmap**](https://github.com/EtzionR/Cumulative-Heatmap-Calculation) |  | :gear: | :earth_africa: | V |  |
-| [**Recursive-HeatMap**](https://github.com/EtzionR/Recursive-HeatMap-Calculation) |  | :gear: | :earth_africa: | V |  |
-| [**Kmeans-Simulator**](https://github.com/EtzionR/Kmeans-Simulator) | :brain: | :gear: |  | V |  |
-| [**My-Convex-Hull**](https://github.com/EtzionR/My-Convex-Hull) |  | :gear: | :earth_africa: | V |  |
+| [**Cumulative-Heatmap**](https://github.com/EtzionR/Cumulative-Heatmap-Calculation) |  | :gear: | :earth_africa: | :art: |  |
+| [**Recursive-HeatMap**](https://github.com/EtzionR/Recursive-HeatMap-Calculation) |  | :gear: | :earth_africa: | :art: |  |
+| [**Kmeans-Simulator**](https://github.com/EtzionR/Kmeans-Simulator) | :brain: | :gear: |  | :art: |  |
+| [**My-Convex-Hull**](https://github.com/EtzionR/My-Convex-Hull) |  | :gear: | :earth_africa: | :art: |  |
 | [**Wikipedia-BFS-crawler**](https://github.com/EtzionR/create-Wikipedia-pages-network-using-BFS-crawler) |  | :gear: |  |  | V |
 | [**Sector-Geometry**](https://github.com/EtzionR/create-sector-shape-KML-file) |  |  | :earth_africa: |  |  |
 | [**Convex-HDBSCAN**](https://github.com/EtzionR/generate-Convex-Hull-SHP-from-HDBSCAN-clustering-probabilities) | :brain: |  | :earth_africa: |  |  |
-| [**Fire-Kites-Analysis**](https://github.com/EtzionR/fire-kite-analysis) | :brain: |  | :earth_africa: | V | V |
-| [**3D GIFs**](https://github.com/EtzionR/create-3d-graph-gif) |  |  |  | V |  |
-| [**Multiple-Densities**](https://github.com/EtzionR/create-multi-smooth-density-plot) |  |  |  | V |  |
-| [**Histogram Calculation**](https://github.com/EtzionR/Histogram-Dictionary) |  |  |  | V |  |
+| [**Fire-Kites-Analysis**](https://github.com/EtzionR/fire-kite-analysis) | :brain: |  | :earth_africa: | :art: | V |
+| [**3D GIFs**](https://github.com/EtzionR/create-3d-graph-gif) |  |  |  | :art: |  |
+| [**Multiple-Densities**](https://github.com/EtzionR/create-multi-smooth-density-plot) |  |  |  | :art: |  |
+| [**Histogram Calculation**](https://github.com/EtzionR/Histogram-Dictionary) |  |  |  | :art: |  |
 
 Each repository includes:
 - The python code that developed as part of the project
