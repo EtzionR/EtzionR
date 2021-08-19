@@ -11,9 +11,9 @@ Here you can find Generic Python codes in the field of **Data Science**. The rep
 You can watch the repositories and the topics that relevant to them:
 
 | Repository | Machine & Deep Learning | Algorithms | Geometry & GIS | Visualization | Projects |
-| ---------- | ------------------------|------------|----------------|---------------|--------- |
-| [DL-Mountaintops](https://github.com/EtzionR/Finding-Mountaintops-using-DL)           | V                        |            | V               |               | V         |
-| [Silhouette-Clustering](https://github.com/EtzionR/Clustering-by-Silhouette)           | V                        |            |                |               |          |
+| :--------: | :---------------------: | :--------: | :------------: | :-----------: | :------: |
+| [**DL-Mountaintops**](https://github.com/EtzionR/Finding-Mountaintops-using-DL) | V                        |            | V               |               | V         |
+| [**Silhouette-Clustering**](https://github.com/EtzionR/Clustering-by-Silhouette) | V                        |            |                |               |          |
 |            |                         |            |                |               |          |
 |            |                         |            |                |               |          |
 |            |                         |            |                |               |          |
