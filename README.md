@@ -31,6 +31,7 @@ Each repository includes:
 - The python code that developed as part of the project
 - Implementation python file which demonstrates the use of the code
 - Readme file that details exactly how it works (including visualization, explanations & math equations)
-- Examples of using the code
+- Examples of importing and using the code
+- Examples file to apply the code on them, as well as outputs files
 - Descreption of required python libraries
 - [MIT](https://en.wikipedia.org/wiki/MIT_License) using license
