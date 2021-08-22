@@ -11,6 +11,7 @@ Here you can find Generic Python codes in the field of **Data Science**. You can
 | [**Recursive-HeatMap**](https://github.com/EtzionR/Recursive-HeatMap-Calculation) |  | :gear: | :earth_africa: | :bar_chart: |  |
 | [**Kmeans-Simulator**](https://github.com/EtzionR/Kmeans-Simulator) | :crystal_ball: | :gear: |  | :bar_chart: |  |
 | [**My-Convex-Hull**](https://github.com/EtzionR/My-Convex-Hull) |  | :gear: | :earth_africa: | :bar_chart: |  |
+| [**Histo-Regression**](https://github.com/EtzionR/Histo-Regression) | :crystal_ball: | :gear: |  |  |  |
 | [**Wikipedia-BFS-crawler**](https://github.com/EtzionR/create-Wikipedia-pages-network-using-BFS-crawler) |  | :gear: |  |  | :rocket: |
 | [**Sector-Geometry**](https://github.com/EtzionR/create-sector-shape-KML-file) |  |  | :earth_africa: |  |  |
 | [**Convex-HDBSCAN**](https://github.com/EtzionR/generate-Convex-Hull-SHP-from-HDBSCAN-clustering-probabilities) | :crystal_ball: |  | :earth_africa: |  |  |
