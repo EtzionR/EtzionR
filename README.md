@@ -14,7 +14,7 @@ Here you can find Generic Python codes in the field of **Data Science**. You can
 | [**Histo-Regression**](https://github.com/EtzionR/Histo-Regression) | :crystal_ball: | :gear: |  |  |  |
 | [**Wikipedia-BFS-crawler**](https://github.com/EtzionR/create-Wikipedia-pages-network-using-BFS-crawler) |  | :gear: |  |  | :rocket: |
 | [**Sector-Geometry**](https://github.com/EtzionR/create-sector-shape-KML-file) |  |  | :earth_africa: |  |  |
-| [**Github-Commits-Crawling**](https://github.com/EtzionR/Github-Commits-Crawling) | | | | :bar_chart: |:rocket:|
+| [**Github-Calendar**](https://github.com/EtzionR/Github-Commits-Crawling) | | | | :bar_chart: |:rocket:|
 | [**Convex-HDBSCAN**](https://github.com/EtzionR/generate-Convex-Hull-SHP-from-HDBSCAN-clustering-probabilities) | :crystal_ball: |  | :earth_africa: |  |  |
 | [**Fire-Kites-Analysis**](https://github.com/EtzionR/fire-kite-analysis) | :crystal_ball: |  | :earth_africa: | :bar_chart: | :rocket: |
 | [**3D GIFs**](https://github.com/EtzionR/create-3d-graph-gif) |  |  |  | :bar_chart: |  |
