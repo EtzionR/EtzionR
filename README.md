@@ -8,6 +8,7 @@ Here you can find Generic Python codes in the field of **Data Science**. You can
 | [**Conv-AutoEncoder**](https://github.com/EtzionR/My-TF-AutoEncoder) | :crystal_ball: |  |  | :bar_chart: | :rocket: |
 | [**Mountaintops-DL**](https://github.com/EtzionR/Finding-Mountaintops-using-DL) | :crystal_ball: |  | :earth_africa: |  | :rocket: |
 | [**Silhouette-Clustering**](https://github.com/EtzionR/Clustering-by-Silhouette) | :crystal_ball: |  |  |  |  |
+| [**Graph-Feature-Propagation**](https://github.com/EtzionR/Graph-Feature-Propagation) | :crystal_ball: | :gear: ||:bar_chart:||
 | [**Cumulative-Heatmap**](https://github.com/EtzionR/Cumulative-Heatmap-Calculation) |  | :gear: | :earth_africa: | :bar_chart: |  |
 | [**Recursive-HeatMap**](https://github.com/EtzionR/Recursive-HeatMap-Calculation) |  | :gear: | :earth_africa: | :bar_chart: |  |
 | [**Kmeans-Simulator**](https://github.com/EtzionR/Kmeans-Simulator) | :crystal_ball: | :gear: |  | :bar_chart: |  |
